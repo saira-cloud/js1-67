@@ -1,0 +1,11 @@
+.mobiles{
+    display: inline-block;
+}
+.images{
+    border: 1px solid blue;
+    margin-left: 100px;
+}
+.mbltext{
+    color: blue;
+    margin-left: 100px;
+}
